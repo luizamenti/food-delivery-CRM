@@ -26,4 +26,4 @@ function clicarBotao () {
 
 let botaocadastro = document.getElementById('botaocadastro')
 console.log('botaocadastro', botaocadastro)
-botaocadastro.addEventListener('click', () => console.log('Oie'))
+botaocadastro.addEventListener('click', clicarBotao)
