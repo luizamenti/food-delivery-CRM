@@ -1,0 +1,91 @@
+@import url(https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&display=swap%27);
+
+body {
+    font-family: 'Edu NSW ACT Foundation';
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+header {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-weight: 900;
+    color: rgb(149, 222, 149);
+    font-size: 50px;
+}
+
+nav {
+    width: fit-content;
+    position: relative;
+    right: 0;
+    display: inline;
+}
+
+a {
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(52, 51, 51);
+    text-transform: uppercase;
+    margin: 10px;
+}
+
+/* body */
+section {
+    margin-bottom: 50px;
+}
+
+h2 {
+    color:rgb(52, 51, 51);
+}
+
+/* .caixa-cadastro {
+    border: 1px solid rgb(117, 117, 117);
+    border-radius: 20px;
+    position: relative;
+    padding: 30px;
+}
+
+.coluna-esquerda-cadastro {
+    margin-left: 10%;
+}
+
+.coluna-direita-cadastro {
+    z-index: 1;
+    position: absolute;
+    left: 60%;
+    top: 30px;
+} */
+
+table {
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+th {
+    color: rgb(117, 117, 117);
+    padding: 5px;
+    min-width: 150px;
+    font-size: 20px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+    font-size: 18px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 10px;
+}
+
+p {
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
